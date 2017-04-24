@@ -3,9 +3,17 @@ A single page application that consumes github search API
 
 Live: https://react-github-search-app.herokuapp.com
 
+Deployment to Heroku
+======================
+1. Clone the repository
+2. Install Heroku Client
+3. Create Heroku App
+        heroku create <appName:optional>
+4. git push heroku master
 
-Technical specifications
-============================
+
+Technology Stack
+==================
 1. Node with NPM for managing the packages. 
 2. Webpack for managing assets and creating build.
 3. Webpack dev server for the development environment to create server. 
