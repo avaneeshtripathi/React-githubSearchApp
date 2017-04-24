@@ -6,10 +6,16 @@ Live: https://react-github-search-app.herokuapp.com
 Deployment to Heroku
 ======================
 1. Clone the repository
+
 2. Install Heroku Client
+
 3. Create Heroku App
-        heroku create <appName:optional>
-4. git push heroku master
+
+        heroku create
+        
+4. Push to heroku
+
+        git push heroku master
 
 
 Technology Stack
